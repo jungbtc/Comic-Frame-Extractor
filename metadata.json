@@ -1,0 +1,5 @@
+{
+  "name": "Comic Frame Extractor",
+  "description": "An AI-powered tool to automatically detect and extract individual frames from a comic strip or manga page. Upload an image and let the AI do the cutting.",
+  "requestFramePermissions": []
+}
