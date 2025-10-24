@@ -103,6 +103,9 @@ const App: React.FC = () => {
       </main>
       <footer className="text-center p-4 mt-8 border-t border-gray-700">
         <p className="text-sm text-gray-500">Powered by Jung the greatest</p>
+        <p className="text-xs text-gray-600 mt-2">
+          For developers: A Python script for local processing is also available. See <code>extract_frames.py</code>.
+        </p>
       </footer>
     </div>
   );
